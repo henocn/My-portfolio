@@ -49,7 +49,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Science student at high school
 							</div>
-							<div className="work-duration">2019 - 2022</div>
+							<div className="work-duration">2019 - 2021</div>
 						</div>
 					</div>
 				}
