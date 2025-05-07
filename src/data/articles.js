@@ -8,9 +8,9 @@ function article_1() {
 			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
 		keywords: [
 			"The Benefits of Cloud Computing",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"Henoc",
+			"Henoc N",
+			"Henoc N'GASAMA",
 		],
 		style: `
 				.article-content {
@@ -60,6 +60,6 @@ function article_2() {
 	};
 }
 
-const myArticles = [article_1, article_2];
+const myArticles = [];
 
 export default myArticles;
