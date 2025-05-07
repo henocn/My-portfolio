@@ -19,7 +19,6 @@ import AllProjects from "../components/projects/allProjects";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
-import myArticles from "../data/articles";
 
 import "./styles/homepage.css";
 
@@ -71,7 +70,7 @@ const Homepage = () => {
 	return (
 		<React.Fragment>
 			<Helmet>
-				<title>{INFO.main.title}</title>
+				<title>Portfolio | {INFO.main.title}</title>
 				<meta name="description" content={currentSEO.description} />
 				<meta
 					name="keywords"
